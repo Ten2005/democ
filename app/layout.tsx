@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Democracy",
-  description: "web development where all people can engage in the democratic process",
+  title: "Democ",
+  description: "web development project. Everyone can engage in the democratic process",
 };
 
 export default function RootLayout({
